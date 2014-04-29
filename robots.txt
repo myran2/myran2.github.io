@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://myran2.github.io/sitemap.xml 
